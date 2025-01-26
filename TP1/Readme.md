@@ -1,5 +1,5 @@
 ## Identification de la problématique:
-# accessibilité des aires de stationnement pendant les périodes de déneigement de la ville de Montréal pour la saison 2024-2025.
+# Accessibilité des aires de stationnement pendant les périodes de déneigement de la ville de Montréal pour la saison 2024-2025.
 
 # 1. **Contexte général**
 Stationner sa voiture à Montréal peut représenter un véritable casse-tête tant pour les usagers de la route que pour les autorités de la ville, encore plus durant la saison de l’hiver. Selon le livre blanc sur le stationnement à Montréal, les aires de stationnement occupent plus de 22,4 km² sur l’île de Montréal, soit un peu plus que l’arrondissement de Côte des Neiges Notre-Dame de Grâce (21,4 km²). Malheureusement la méconnaissance de la répartition spatiale de ces zones pendant l’hiver et des conditions de stationnement entraînent des désagréments chez les usagers. Les autorités municipales quant à elles voient leur programme de déneigement perturbé par le mauvais stationnement.
